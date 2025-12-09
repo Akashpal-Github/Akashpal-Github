@@ -3,6 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Akash Pal</h1>
 <h3 align="center">A passionate FullStack Developer from India</h3>
+img align="right" alt="Coding" width="400" src="https://zeroreversesoft.wordpress.com/2013/02/19/github-profile/"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashpal-github&label=Profile%20views&color=0e75b6&style=flat" alt="akashpal-github" /> </p>
 

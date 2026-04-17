@@ -3,9 +3,22 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Pal</h1>
+
 <h3 align="center">
 Engineering Student | FullStack Developer | AI/ML Enthusiast
 </h3>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/iamakashpal" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+</a>
+<a href="https://instagram.com/iam.akashhhhh" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
+</a>
+<a href="https://leetcode.com/u/akashpal25/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
+</a>
+</p>
 
 ---
 
@@ -39,22 +52,6 @@ Engineering Student | FullStack Developer | AI/ML Enthusiast
 * Regular gym workout (bodybuilding 💪)
 * Love solving coding problems
 * Always exploring new tech 🚀
-
----
-
-<h3 align="center">Connect with me:</h3>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/iamakashpal" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-</a>
-<a href="https://instagram.com/iam.akashhhhh" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
-</a>
-<a href="https://leetcode.com/u/akashpal25/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
-</a>
-</p>
 
 ---
 

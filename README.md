@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Akash Pal</h1>
 
 <h3 align="center">
-Engineering Student | FullStack Developer | AI/ML Enthusiast
+FullStack Developer | AI/ML Enthusiast
 </h3>
 
 <!-- ✅ FIXED HORIZONTAL ICONS -->

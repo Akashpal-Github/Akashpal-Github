@@ -8,16 +8,20 @@
 Engineering Student | FullStack Developer | AI/ML Enthusiast
 </h3>
 
+<!-- ✅ FIXED HORIZONTAL ICONS -->
+
 <p align="center">
-<a href="https://www.linkedin.com/in/iamakashpal" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-</a>
-<a href="https://instagram.com/iam.akashhhhh" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
-</a>
-<a href="https://leetcode.com/u/akashpal25/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="50" />
-</a>
+  <a href="https://www.linkedin.com/in/iamakashpal">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/iam.akashhhhh">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/akashpal25/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40"/>
+  </a>
 </p>
 
 ---
@@ -37,11 +41,6 @@ Engineering Student | FullStack Developer | AI/ML Enthusiast
 * FullStack projects (React + Spring Boot)
 * Real-world scalable applications
 
-### 🤔 I’m looking for help with
-
-* Advanced System Design
-* Microservices architecture
-
 ### 💬 Ask me about
 
 * Java, Spring Boot, React
@@ -49,7 +48,6 @@ Engineering Student | FullStack Developer | AI/ML Enthusiast
 
 ### ⚡ Fun facts
 
-* Regular gym workout (bodybuilding 💪)
 * Love solving coding problems
 * Always exploring new tech 🚀
 

@@ -2,7 +2,7 @@
   <img alt="GIF" src="https://raw.githubusercontent.com/mhardik003/mhardik003/main/gifs/mario.gif">
 </p>
 
-<h1 align="center">Hi 👋, I'm Akash Pal</h1>
+<h1 align="center">Hey , I'm Akash Pal</h1>
 
 <h3 align="center">
 FullStack Developer | AI/ML Enthusiast
